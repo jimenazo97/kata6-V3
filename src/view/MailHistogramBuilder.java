@@ -7,7 +7,7 @@ package view;
 
 /**
  *
- * @author Ithiel
+ * @author Andrés
  */
 import kata6terceraversion.Attribute;
 import model.Histogram;

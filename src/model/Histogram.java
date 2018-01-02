@@ -7,7 +7,7 @@ package model;
 
 /**
  *
- * @author Ithiel
+ * @author Andrés
  */
 import java.util.HashMap;
 import java.util.Map;

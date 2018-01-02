@@ -7,7 +7,7 @@ package view;
 
 /**
  *
- * @author Ithiel
+ * @author Andrés
  */
 public class BufferReader {
     

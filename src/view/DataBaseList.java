@@ -13,7 +13,7 @@ import java.util.*;
 import model.Person;
 /**
  *
- * @author Ithiel
+ * @author Andrés
  */
  
  

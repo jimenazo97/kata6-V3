@@ -7,7 +7,7 @@ package kata6terceraversion;
 
 /**
  *
- * @author Ithiel
+ * @author Andrés
  */
 public	interface Attribute <T,S>{	
      S get (T item);	

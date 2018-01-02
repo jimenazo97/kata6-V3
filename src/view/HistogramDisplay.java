@@ -7,7 +7,7 @@ package view;
 
 /**
  *
- * @author Ithiel
+ * @author Andrés
  */
  import javax.swing.JPanel;
  import java.awt.Dimension;

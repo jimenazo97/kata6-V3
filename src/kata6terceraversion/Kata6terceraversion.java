@@ -42,7 +42,7 @@ import view.MailListReader;
     }
     
     private void input() throws IOException{
-        filename = "/E://Kata6/emails.txt";
+        filename = "/Users/andresjimenez/NetBeansProjects/Kata6/emailsfile.txt";
         mailList = MailListReader.read(filename);
         builder	=new MailHistogramBuilder<>(mailList);	
      }
